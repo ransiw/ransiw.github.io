@@ -25,21 +25,21 @@
     "href": "index.html",
     "title": "Ransi Clark",
     "section": "",
-    "text": "A little bit about me and my life."
+    "text": "I am a 4th year grad student at Caltech’s HSS program. And I specialize on estimating dynamic causal effects, particularly of aggregate political units. I have a preference for modular estimators that easily render for diagnostics. I design and implement the methods and apply to a wide range of treatment settings including democratization."
+  },
+  {
+    "objectID": "index.html#job-market-paper",
+    "href": "index.html#job-market-paper",
+    "title": "Ransi Clark",
+    "section": "Job market paper",
+    "text": "Job market paper\nSaturation dangers in multi-decade democracy studies"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Ransi Clark",
     "section": "Education",
-    "text": "Education\nUniversity of XYZ, City | Location | Sept 20XX - June 20XX"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Ransi Clark",
-    "section": "Experience",
-    "text": "Experience\nWorkplace | Job title | April 20XX - present"
+    "text": "Education\nCalifornia Institute of Technology | PhD Social Science | 2021-\nUniversity of Queensland | BEcon (Honours) | 2015-2018"
   },
   {
     "objectID": "blog/first-post/index.html",
