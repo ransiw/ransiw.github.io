@@ -14,12 +14,15 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://counterfictionals.substack.com/
 ---
 
-A little bit about me and my life.
+I am a 4th year grad student at Caltech's HSS program. And I specialize on estimating dynamic causal effects, particularly of aggregate political units. I have a preference for modular estimators that easily render for diagnostics. I design and implement the methods and apply to a wide range of treatment settings including democratization.
+
+## Job market paper
+
+Saturation dangers in multi-decade democracy studies
 
 ## Education
 
-University of XYZ, City \| Location \| Sept 20XX - June 20XX
+California Institute of Technology \| PhD Social Science \| 2021-
 
-## Experience
+University of Queensland \| BEcon (Honours) \| 2015-2018
 
-Workplace \| Job title \| April 20XX - present

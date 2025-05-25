@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Home"
@@ -9,8 +10,10 @@ website:
     right:
       - text: Home
         href: index.qmd
-      
+
 format:
   html:
+    max-width: 100px
+    fontsize: 15px
     theme: [cosmo, styles.scss]
 
