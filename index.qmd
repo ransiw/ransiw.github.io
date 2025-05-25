@@ -1,6 +1,6 @@
 ---
-title: "Alicia"
-subtitle: "Data Scientist"
+title: "Ransi Clark"
+subtitle: "Political Methodologist"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
 image: profile.jpg
 about: # https://quarto.org/docs/websites/website-about.html
@@ -8,10 +8,10 @@ about: # https://quarto.org/docs/websites/website-about.html
   links:
     - icon: github
       text: Github
-      href: https://github.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+      href: https://github.com/ransiw
+    - icon: bookmark-fill
+      text: Substack
+      href: https://counterfictionals.substack.com/
 ---
 
 A little bit about me and my life.
