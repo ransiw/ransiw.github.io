@@ -2,7 +2,7 @@
 title: "Ransi Clark"
 subtitle: "Political Methodologist"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
-image: profile.jpg
+image: profileadd.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: trestles
   links:
