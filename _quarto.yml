@@ -12,6 +12,10 @@ website:
     right:
       - text: Papers
         href: papers.qmd
+      - text: Software
+        href: software/index.qmd
+      
+
 
 format:
   html:

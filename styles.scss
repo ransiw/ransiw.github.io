@@ -11,3 +11,31 @@ $link-color: rgb(39, 128, 227);
 /* Fonts */
 $font-family-sans-serif: "Source Sans Pro", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $font-size-root: 17px;
+
+/*-- scss:rules --*/
+
+// Custom styles for listing cards
+.quarto-grid-item {
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  padding: 1rem;
+  background-color: #f9f9f9;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+}
+
+.quarto-grid-item:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transform: translateY(-4px);
+}
+
+
+.quarto-grid-item img {
+  width: auto;              // Make image span full width of the card
+  height: auto;             // Maintain aspect ratio
+  max-height: 250px;        // Optional: limit vertical size
+  object-fit: cover;        // Crop if needed to maintain aspect ratio
+  border-radius: 8px;
+  display: block;
+}
+

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Home - Projects</title>
+<title>Home - Software</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-path','listing-image','listing-description','listing-categories','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-path","listing-image","listing-description","listing-categories","listing-date"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -94,12 +94,13 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<meta property="og:title" content="Home - Projects">
-<meta property="og:image" content="images/breno-assis-r3WAWU5Fi5Q-unsplash.jpg">
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Home - Software">
+<meta property="og:image" content="../software/Logos/didwrappers_logo.png">
 <meta property="og:site-name" content="Home">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -121,7 +122,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Papers</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../software/index.html" rel="" target="">
+    <a class="nav-link active" href="../software/index.html" rel="" target="" aria-current="page">
  <span class="menu-text">Software</span></a>
   </li>  
 </ul>
@@ -132,16 +133,16 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Projects</h1>
+<h1 class="title">Software</h1>
 </div>
 
 
@@ -162,140 +163,53 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Python,Machine Learning,Data Cleaning" data-listing-date-sort="1704096000000">
-<a href="https://example.com/house-prices" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="Software" data-listing-file-modified-sort="1748633497392" data-listing-reading-time-sort="1">
+<a href="../software/didwrappers.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="images/breno-assis-r3WAWU5Fi5Q-unsplash.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../software/Logos/didwrappers_logo.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Predicting House Prices with Machine Learning
+didwrappers
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Python'); return false;">
-Python
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Machine Learning'); return false;">
-Machine Learning
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Data Cleaning'); return false;">
-Data Cleaning
-</div>
-</div>
 <div class="card-text listing-description">
-<p>This project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.</p>
+Extends the functionality of the did package, specifically for within treatment-group heterogeneity and unbalanced data. It also allows for additional type of aggregations
 </div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jan 1, 2024
-</div>
-</div>
-
-<table class="card-other-values">
-<tbody><tr>
-<td>
-path
-</td>
-<td class="path">
-https://example.com/house-prices
-</td>
-</tr>
-
-</tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="R,Machine Learning,Clustering,Statistical Modelling" data-listing-date-sort="1711954800000">
-<a href="https://example.com/customer-segmentation" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-categories="Software" data-listing-file-modified-sort="1748627931959" data-listing-reading-time-sort="1">
+<a href="../software/matchematics.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="images/adrien-delforge-CrHG_ZYn1Dw-unsplash.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../software/Logos/matchematics_logo.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Customer Segmentation Using Clustering Techniques
+matchematics
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Machine Learning'); return false;">
-Machine Learning
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Clustering'); return false;">
-Clustering
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Statistical Modelling'); return false;">
-Statistical Modelling
-</div>
-</div>
 <div class="card-text listing-description">
-<p>This project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.</p>
+A helper function with matching and weighting techniques
 </div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Apr 1, 2024
-</div>
-</div>
-
-<table class="card-other-values">
-<tbody><tr>
-<td>
-path
-</td>
-<td class="path">
-https://example.com/customer-segmentation
-</td>
-</tr>
-
-</tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="R,Data Visualization,Environmental Science" data-listing-date-sort="1719817200000">
-<a href="https://example.com/co2-visualization" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-categories="Software" data-listing-file-modified-sort="1748627661657" data-listing-reading-time-sort="1">
+<a href="../software/causalforensics.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="images/anne-nygard-vc-vPgGqAr4-unsplash.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../software/Logos/causalforensics_logo.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Visualizing Global CO2 Emissions
+causalforensics
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Data Visualization'); return false;">
-Data Visualization
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Environmental Science'); return false;">
-Environmental Science
-</div>
-</div>
 <div class="card-text listing-description">
-<p>This project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.</p>
+Unravels the weights of estimates of regressions and other causal estimation techniques
 </div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jul 1, 2024
-</div>
-</div>
-
-<table class="card-other-values">
-<tbody><tr>
-<td>
-path
-</td>
-<td class="path">
-https://example.com/co2-visualization
-</td>
-</tr>
-
-</tbody></table>
 </div>
 </div>
 </a>

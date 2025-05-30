@@ -1,0 +1,15 @@
+---
+title: "Software"
+listing:
+  type: grid
+  contents: "*.qmd"
+  sort: "listing-order"
+  fields: [image, title, description]
+  grid-columns: 3
+  image-align: left
+page-layout: full
+format:
+  html:
+    page-layout: full
+    css: styles.css  # optional for custom styling
+---

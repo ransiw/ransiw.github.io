@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/software/index.html",
+    "items": [
+      "/software/didwrappers.html",
+      "/software/matchematics.html",
+      "/software/causalforensics.html"
+    ]
+  },
+  {
     "listing": "/projects/index.html",
     "items": []
   }

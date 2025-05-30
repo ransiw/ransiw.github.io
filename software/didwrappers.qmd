@@ -1,0 +1,11 @@
+---
+title: "didwrappers"
+description: "Extends the functionality of the did package, specifically for within treatment-group heterogeneity and unbalanced data. It also allows for additional type of aggregations"
+image: Logos/didwrappers_logo.png
+categories: ["Software"]
+listing-visible: true
+listing-order: 1
+url: http://ransiclark.com/didwrappers/
+type: software
+format: html
+---

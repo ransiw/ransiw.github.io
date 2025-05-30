@@ -1,0 +1,10 @@
+---
+title: "causalforensics"
+description: "Unravels the weights of estimates of regressions and other causal estimation techniques"
+image: Logos/causalforensics_logo.png
+categories: ["Software"]
+listing-visible: true
+listing-order: 3
+type: software
+format: html
+---
