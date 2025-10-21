@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Home"
+  site-url: https://ransiclark.com   # <-- your domain (use https)
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   page-footer: "Made with Quarto"
   navbar:
