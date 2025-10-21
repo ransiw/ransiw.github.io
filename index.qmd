@@ -18,7 +18,8 @@ I am a 4th year grad student at Caltech's HSS program. And I specialize on estim
 
 ## Papers
 
-Saturation dangers in multi-decade democracy studies
+[Saturation dangers in multi-decade democracy studies](democeducation.pdf)
+
 
 ::: {.callout-caution collapse="true" icon=false appearance="simple"}
 ## Abstract
