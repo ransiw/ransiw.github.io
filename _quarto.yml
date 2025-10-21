@@ -1,6 +1,8 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: docs           # <-- /docs mode
+  resources:
+    - CNAME                  # ensure it gets copied into /docs
 
 website:
   title: "Home"
@@ -9,11 +11,7 @@ website:
   navbar:
     background: light
     title: Ransi Clark
-    right:
-      - text: Papers
-        href: papers.qmd
-      - text: Software
-        href: software/index.qmd
+
       
 
 

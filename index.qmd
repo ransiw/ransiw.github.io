@@ -16,15 +16,16 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 I am a 4th year grad student at Caltech's HSS program. And I specialize on estimating dynamic causal effects, particularly of aggregate political units. I have a preference for modular estimators that easily render for diagnostics. I design and implement the methods and apply to a wide range of treatment settings including democratization.
 
-## Job market paper
+## Papers
 
 Saturation dangers in multi-decade democracy studies
 
 ::: {.callout-caution collapse="true" icon=false appearance="simple"}
 ## Abstract
 
-Political scientists empirically studying the short and long term impacts of democratization are constrained to observational cross-country data to make their inferences. To do so, they rely upon outcomes that can be measured across countries and time. But overtime many of these variables reach their natural limits and outcomes of democracies and non-democracies converge. Sometimes, such as with school enrollment rates, the bounds are apparent. Yet at other times, such as with infant mortality rates, the outcomes never reach zero but can remain close to zero. Near these saturation points, the units behave as if they are resistant to the event's impact, inducing a heterogeneity in treatment effect that depends on the baseline. Indiscriminately aggregating these dynamic treatment effects into one overall effect will bias discovered treatment effects, and increase its variance. Under saturation, designs such as the differences-in-differences violate the essential parallel trends assumption causing long-term dynamic estimates to attenuate and even change sign. Our recommendation is to perform either baseline-weighted or baseline-matched differences-in-differences or the original synthetic control and report treatment effects disaggregated by their baseline. We use data from several studies to show how saturation can lead researchers to incorrectly conclude that democratization had an adverse impact on education or mortality.
+Political scientists empirically studying the long term impacts of democratization are constrained to observational cross-country data to make their inferences. To do so, they rely upon outcomes that can be measured across countries and time. But overtime many of these variables reach their natural limits and outcomes of democracies and non-democracies converge. Sometimes, such as with school enrollment rates, the bounds are apparent. Yet at other times, such as with infant mortality rates, the outcomes never reach zero but can remain close to zero. Near these saturation points, the units behave as if they are resistant to the event's impact, inducing a heterogeneity in treatment effect that depends on the baseline. Indiscriminately aggregating these dynamic treatment effects into one overall effect will bias discovered treatment effects, and increase its variance. Under saturation, designs such as the differences-in-differences violate the essential parallel trends assumption causing long-term dynamic estimates to attenuate and even change sign. Our recommendation is to perform either baseline-weighted or baseline-matched differences-in-differences or the original synthetic control and report treatment effects disaggregated by their baseline. We use data from several studies to show how saturation can lead researchers to incorrectly conclude that democratization had an adverse impact on education or mortality.
 :::
+
 
 
 ## Education
