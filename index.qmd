@@ -16,63 +16,26 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 I specialize on estimating dynamic causal effects of aggregate political units. I have a preference for modular estimators that easily render for diagnostics. I design and implement the methods and apply to a wide range of treatment settings including democratization, and natural disasters.
 
-## Papers
+## Working papers
 
 [Saturation dangers in multi-decade democracy studies](democeducation.pdf) 
 *with Jonathan N. Katz*
 
 
-::: {.callout-caution collapse="true" icon=false appearance="simple"}
-## Summary
-
-Political scientists empirically studying the long term impacts of democratization are constrained to observational cross-country data to make their inferences. To do so, they rely upon outcomes that can be measured across countries and time. But overtime many of these variables reach their natural limits and outcomes of democracies and non-democracies converge. Sometimes, such as with school enrollment rates, the bounds are apparent. Yet at other times, such as with infant mortality rates, the outcomes never reach zero but can remain close to zero. Near these saturation points, the units behave as if they are resistant to the event's impact, inducing a heterogeneity in treatment effect that depends on the baseline. Indiscriminately aggregating these dynamic treatment effects into one overall effect will bias discovered treatment effects, and increase its variance. Under saturation, designs such as the differences-in-differences violate the essential parallel trends assumption causing long-term dynamic estimates to attenuate and even change sign. Our recommendation is to perform either baseline-weighted or baseline-matched differences-in-differences or the original synthetic control and report treatment effects disaggregated by their baseline. We use data from several studies to show how saturation can lead researchers to incorrectly conclude that democratization had an adverse impact on education or mortality.
-:::
 
 [Democratic Peace, Piece by Piece](democpeace.pdf) 
 *with Jonathan N. Katz*
 
 
-::: {.callout-caution collapse="true" icon=false appearance="simple"}
-## Summary
-
-Democratic peace is an enduring empirical observation in international relations. However, causality is difficult to establish due to many unobservable mechanisms. One such unobservable is the hidden belligerence among dyads. Some dyads are more conflict-prone than others, and most dyads are, even among the contiguous dyads, never engage in conflict. The mixing of these two types of dyads lead to both attenuation biases and selection biases. Attenuation biases arise when dyads that have never fought overwhelm the average treatment effect and weaken the signal. Selection biases arise when countries selectively democratize based on whether or not they have a bloodfeud with their neighbors. The solution we propose is to proxy for the baseline risk of conflict of a dyad using an indicator on whether the member countries had fought in the lead up to democratization, and then only compare dyads that have the same baseline risk of fighting, and report treatment effects conditionally on the risk strata. Disaggregating in this way we recover a democratic peace effect two to four times the magnitude for countries that had a baseline risk as opposed to those that had no baseline risk. To recover these estimates, we use a dynamic algorithm that ensures that the treatment (joint democracies) and control groups (not joint democracies) are contemporaneous, have similar baseline risk, and any observable baseline characteristics are also accounter for. 
-:::
-
-
-[Courting the Academy:](legalbounds.pdf) 
-*with Matthew Estes*
-
-
-::: {.callout-caution collapse="true" icon=false appearance="simple"}
-## Summary
-
-The judge-academic dynamic, though widely noted, is under-studied empirically. This paper closes the gap by introducing a causal framework to explore how legal theories become legal canon. Combining data on academic citations and judicial mentions, we quantify the extent to which judges impacted the popularity of two legal movements: legal realism and originalism. Exploiting timing differences in judicial mentions between legal works, we apply a conservative bounding approach to estimate the degree to which academic popularity is spurred on by judicial acknowledgement.  We find that judicial mentions increased academic citations to legal realist works but not for originalist works.
-:::
-
-
 [Courting the Academy: The Judicial Role in Popularizing Legal Scholarship](legalbounds.pdf) 
 *with Matthew Estes*
 
-
-::: {.callout-caution collapse="true" icon=false appearance="simple"}
-## Summary
-
-The judge-academic dynamic, though widely noted, is under-studied empirically. This paper closes the gap by introducing a causal framework to explore how legal theories become legal canon. Combining data on academic citations and judicial mentions, we quantify the extent to which judges impacted the popularity of two legal movements: legal realism and originalism. Exploiting timing differences in judicial mentions between legal works, we apply a conservative bounding approach to estimate the degree to which academic popularity is spurred on by judicial acknowledgement.  We find that judicial mentions increased academic citations to legal realist works but not for originalist works.
-:::
+### Surveys
 
 
 [Threat of China's nuclear dominance boosts Americans' support for nuclear energy](NuclearPolitics.pdf) 
 *with Beatrice Magistro and R. Michael Alvarez*
 
-
-::: {.callout-caution collapse="true" icon=false appearance="simple"}
-## Summary
-
-We implement a survey experiment to determine what information is most persuasive to reducing nuclear energy skepticism. 
-Informing respondents about China's aggressive construction of nuclear plants and premature closures of American nuclear plants boosts support for both license renewal of existing plants and building new nuclear plants.
-Moreover, under this information frame the majority of the sample supported both policies.
-A separate information frame that posed nuclear energy as necessary for achieving net-zero goals only raised support for license renewal of existing plants but not building new plants. 
-:::
 
 ## Software
 
