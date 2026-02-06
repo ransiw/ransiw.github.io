@@ -4,14 +4,21 @@
     "href": "index.html",
     "title": "Ransi Clark",
     "section": "",
-    "text": "I specialize in estimating dynamic causal effects of aggregate political units. I have a preference for modular estimators that easily render for diagnostics. I design and implement the methods and apply to a wide range of treatment settings including democratization and economic liberalization. I also have specific policy interests in understanding and minimizing displacement impacts of wildfires including on schooling and wildfire insurance and the reforming the permitting process around nuclear energy."
+    "text": "I specialize in estimating dynamic causal effects of aggregate political units. I have a preference for modular estimators that easily render for diagnostics. I design and implement the methods and apply to a wide range of treatment settings including democratization, natural disasters, and other electorally relevant phenomena. I publish and maintain open source software.\nI also have a specific policy interest in nuclear energy and occasionally field surveys to gauge public opinion on the nuclear energy permitting processes."
+  },
+  {
+    "objectID": "index.html#accepted-papers",
+    "href": "index.html#accepted-papers",
+    "title": "Ransi Clark",
+    "section": "Accepted Papers",
+    "text": "Accepted Papers\nThreat of China’s nuclear dominance boosts Americans’ support for nuclear energy with Beatrice Magistro and R. Michael Alvarez\ndidunit: a unit-level multi-period differences-in-differences estimator in R with Jonathan N. Katz and R. Michael Alvarez published at SoftwareX\nCourting the Academy: The Judicial Role in Popularizing Legal Scholarship with Matthew Estes accepted at Kansas Journal of Law and Public Policy"
   },
   {
     "objectID": "index.html#working-papers",
     "href": "index.html#working-papers",
     "title": "Ransi Clark",
     "section": "Working Papers",
-    "text": "Working Papers\nSaturation dangers in multi-decade democracy studies with Jonathan N. Katz\nDemocratic Peace, Piece by Piece with Jonathan N. Katz\ndidunit: a unit-level multi-period differences-in-differences estimator in R with Jonathan N. Katz and R. Michael Alvarez R&R at SoftwareX\n\nLegal networks\nCourting the Academy: The Judicial Role in Popularizing Legal Scholarship with Matthew Estes accepted at Kansas Journal of Law and Public Policy\n\n\nNuclear Energy\nThreat of China’s nuclear dominance boosts Americans’ support for nuclear energy with Beatrice Magistro and R. Michael Alvarez\n\n\nWildfires\nSchooling amidst displacement from California fires: bright spots and blind spots with R. Michael Alvarez"
+    "text": "Working Papers\nSaturation dangers in multi-decade democracy studies with Jonathan N. Katz\nSchooling amidst displacement from California fires: bright spots and blind spots with R. Michael Alvarez"
   },
   {
     "objectID": "index.html#education",

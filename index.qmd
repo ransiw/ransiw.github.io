@@ -1,7 +1,7 @@
 ---
 title: "Ransi Clark"
 subtitle: "Political Methodologist"
-# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+# 
 image: profileadd.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: trestles
@@ -14,34 +14,39 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://counterfictionals.substack.com/
 ---
 
-I specialize on estimating dynamic causal effects of aggregate political units. I have a preference for modular estimators that easily render for diagnostics. I design and implement the methods and apply to a wide range of treatment settings including democratization, and natural disasters.
+I specialize in estimating dynamic causal effects of aggregate political units. I have a preference for modular estimators that easily render for diagnostics. I design and implement the methods and apply to a wide range of treatment settings including democratization, natural disasters, and other electorally relevant phenomena. I publish and maintain open source software.
 
-## Working papers
+I also have a specific policy interest in nuclear energy and occasionally field surveys to gauge public opinion on the nuclear energy permitting processes.
 
-[Saturation dangers in multi-decade democracy studies](democeducation.pdf) 
-*with Jonathan N. Katz*
-
-
-
-[Democratic Peace, Piece by Piece](democpeace.pdf) 
-*with Jonathan N. Katz*
-
-
-[Courting the Academy: The Judicial Role in Popularizing Legal Scholarship](legalbounds.pdf) 
-*with Matthew Estes*
-
-### Surveys
+## Accepted Papers
 
 
 [Threat of China's nuclear dominance boosts Americans' support for nuclear energy](NuclearPolitics.pdf) 
 *with Beatrice Magistro and R. Michael Alvarez*
 
 
-## Software
+[didunit: a unit-level multi-period differences-in-differences estimator in R](didunit.pdf)<br>
+*with Jonathan N. Katz and R. Michael Alvarez*<br>
+*published at [SoftwareX](https://www.sciencedirect.com/journal/softwarex)*
 
-[didunit: a unit-level multi-period differences-in-differences estimator in R](didunit.pdf)
 
-[Github](https://github.com/ransiw/didunit){.btn .btn-primary}
+
+[Courting the Academy: The Judicial Role in Popularizing Legal Scholarship](legalbounds.pdf) 
+*with Matthew Estes*
+*accepted at Kansas Journal of Law and Public Policy*
+
+
+
+## Working Papers
+
+[Saturation dangers in multi-decade democracy studies](democeducation.pdf) 
+*with Jonathan N. Katz*
+
+
+
+[Schooling amidst displacement from California fires: bright spots and blind spots](schoolswildfire.pdf) 
+*with R. Michael Alvarez*
+
 
 
 ## Education
