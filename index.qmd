@@ -20,15 +20,14 @@ I also have a specific policy interest in nuclear energy and occasionally field 
 
 ## Accepted Papers
 
-
-[Threat of China's nuclear dominance boosts Americans' support for nuclear energy](NuclearPolitics.pdf) 
-*with Beatrice Magistro and R. Michael Alvarez*
-
-
 [didunit: a unit-level multi-period differences-in-differences estimator in R](didunit.pdf)<br>
 *with Jonathan N. Katz and R. Michael Alvarez*<br>
-*published at [SoftwareX](https://www.sciencedirect.com/journal/softwarex)*
+*published at [SoftwareX](https://www.sciencedirect.com/science/article/pii/S2352711025004339)*
 
+
+[Threat of China's nuclear dominance boosts Americans' support for nuclear energy](NuclearPolitics.pdf) 
+*with Beatrice Magistro and R. Michael Alvarez*<br>
+*accepted at Energy Policy*
 
 
 [Courting the Academy: The Judicial Role in Popularizing Legal Scholarship](legalbounds.pdf) 
