@@ -1,6 +1,6 @@
 ---
 title: "Ransi Clark"
-subtitle: "Political Methodologist"
+subtitle: "Computational Social Science"
 # 
 image: profileadd.jpg
 about: # https://quarto.org/docs/websites/website-about.html
@@ -14,9 +14,11 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://counterfictionals.substack.com/
 ---
 
-I specialize in estimating dynamic causal effects of aggregate political units. I have a preference for modular estimators that easily render for diagnostics. I design and implement the methods and apply to a wide range of treatment settings including democratization, natural disasters, and other electorally relevant phenomena. I publish and maintain open source software.
+I specialize in statistical methods for estimating dynamic causal effects, with focus on decomposability. I apply these methods to a wide range of treatment settings including democratization, natural disasters, and other electorally relevant phenomena. I publish and maintain open source software.
 
 I also have a specific policy interest in nuclear energy and occasionally field surveys to gauge public opinion on the nuclear energy permitting processes.
+
+With [Matt Estes](https://matt-estes.com/publications), I quantify the relationship between legal academia and legal practicioners by employing natural language processing tools in legal text data spanning the last decades. 
 
 ## Accepted Papers
 
@@ -31,7 +33,7 @@ I also have a specific policy interest in nuclear energy and occasionally field 
 
 
 [Courting the Academy: The Judicial Role in Popularizing Legal Scholarship](legalbounds.pdf) 
-*with Matthew Estes*
+*with Matthew Estes* <br>
 *accepted at Kansas Journal of Law and Public Policy*
 
 
@@ -42,10 +44,11 @@ I also have a specific policy interest in nuclear energy and occasionally field 
 *with Jonathan N. Katz*
 
 
-
 [Schooling amidst displacement from California fires: bright spots and blind spots](schoolswildfire.pdf) 
 *with R. Michael Alvarez*
 
+[Finding Natural Law: An empirical examination](FindingNature.pdf) 
+*with Matthew Estes* 
 
 
 ## Education
