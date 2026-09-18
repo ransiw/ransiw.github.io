@@ -17,7 +17,7 @@ I study the fiscal, economic, and political impacts of domestic migratory waves,
 I also develop diagnostic and corrective tools for panel data analysis for more general settings, focusing on biases caused by parallel trend violations, composition changes between groups, and overlap violations. 
 
 
-I also design messaging experiments to tease out American public reticence to energy infrastructure and heavy industry including data centers. 
+In a parallel strand of research, I design messaging experiments that investigate American public reticence to energy infrastructure and heavy industry including data centers. 
 
 
 
