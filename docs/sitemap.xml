@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ransiclark.com/software/causalforensics.html</loc>
-    <lastmod>2026-02-23T04:35:40.356Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ransiclark.com/software/matchematics.html</loc>
-    <lastmod>2026-02-23T04:35:37.463Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ransiclark.com/index.html</loc>
-    <lastmod>2026-02-23T04:35:35.290Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ransiclark.com/papers.html</loc>
-    <lastmod>2026-02-23T04:35:32.874Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ransiclark.com/software/didwrappers.html</loc>
-    <lastmod>2026-02-23T04:35:36.242Z</lastmod>
+    <loc>https://ransiclark.com/dashboard/index.html</loc>
+    <lastmod>2026-09-18T15:51:19.023Z</lastmod>
   </url>
   <url>
     <loc>https://ransiclark.com/software/index.html</loc>
-    <lastmod>2026-02-23T04:35:39.108Z</lastmod>
+    <lastmod>2026-09-18T15:51:18.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ransiclark.com/software/didwrappers.html</loc>
+    <lastmod>2026-09-18T15:51:17.718Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ransiclark.com/papers.html</loc>
+    <lastmod>2026-09-18T15:51:16.944Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ransiclark.com/index.html</loc>
+    <lastmod>2026-09-18T15:51:39.179Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ransiclark.com/software/matchematics.html</loc>
+    <lastmod>2026-09-18T15:51:17.985Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ransiclark.com/software/causalforensics.html</loc>
+    <lastmod>2026-09-18T15:51:18.570Z</lastmod>
   </url>
 </urlset>

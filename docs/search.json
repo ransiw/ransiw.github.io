@@ -1,31 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ransi Clark",
+    "objectID": "dashboard/index.html",
+    "href": "dashboard/index.html",
+    "title": "Interactive dashboard",
     "section": "",
-    "text": "I specialize in statistical methods for estimating dynamic causal effects, with focus on decomposability. I apply these methods to a wide range of treatment settings including democratization, natural disasters, and other electorally relevant phenomena. I publish and maintain open source software.\nI also have a specific policy interest in nuclear energy and occasionally field surveys to gauge public opinion on the nuclear energy permitting processes.\nWith Matt Estes, I quantify the relationship between legal academia and legal practicioners by employing natural language processing tools in legal text data spanning the last decades."
+    "text": "The zip-code choropleth dashboard is a Shiny app in this project. Deploy it to shinyapps.io or Posit Connect, then embed or link it here."
   },
   {
-    "objectID": "index.html#accepted-papers",
-    "href": "index.html#accepted-papers",
-    "title": "Ransi Clark",
-    "section": "Accepted Papers",
-    "text": "Accepted Papers\ndidunit: a unit-level multi-period differences-in-differences estimator in R with Jonathan N. Katz and R. Michael Alvarez published at SoftwareX\nThreat of China’s nuclear dominance boosts Americans’ support for nuclear energy with Beatrice Magistro and R. Michael Alvarez accepted at Energy Policy\nCourting the Academy: The Judicial Role in Popularizing Legal Scholarship with Matthew Estes  accepted at Kansas Journal of Law and Public Policy"
+    "objectID": "dashboard/index.html#run-locally",
+    "href": "dashboard/index.html#run-locally",
+    "title": "Interactive dashboard",
+    "section": "Run locally",
+    "text": "Run locally\nFrom R, with the project root as working directory:\nshiny::runApp(\"dashboard\")"
   },
   {
-    "objectID": "index.html#working-papers",
-    "href": "index.html#working-papers",
-    "title": "Ransi Clark",
-    "section": "Working Papers",
-    "text": "Working Papers\nSaturation dangers in multi-decade democracy studies with Jonathan N. Katz\nSchooling amidst displacement from California fires: bright spots and blind spots with R. Michael Alvarez\nFinding Natural Law: An empirical examination with Matthew Estes"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Ransi Clark",
-    "section": "Education",
-    "text": "Education\nCalifornia Institute of Technology | PhD Social Science | 2021-\nUniversity of Queensland | BEcon (Honours) | 2015-2018"
+    "objectID": "dashboard/index.html#deploy",
+    "href": "dashboard/index.html#deploy",
+    "title": "Interactive dashboard",
+    "section": "Deploy",
+    "text": "Deploy\nrsconnect::deployApp(\"dashboard\", appName = \"fireinsurance\")\nAfter deployment, the app will be at https://YOUR_ACCOUNT_NAME.shinyapps.io/fireinsurance/."
   },
   {
     "objectID": "software/index.html",
@@ -33,5 +26,40 @@
     "title": "Software",
     "section": "",
     "text": "didwrappers\n\n\nExtends the functionality of the did package, specifically for within treatment-group heterogeneity and unbalanced data. It also allows for additional type of aggregations\n\n\n\n\n\n\n\n\n\n\n\n\n\nmatchematics\n\n\nA helper function with matching and weighting techniques\n\n\n\n\n\n\n\n\n\n\n\n\n\ncausalforensics\n\n\nUnravels the weights of estimates of regressions and other causal estimation techniques\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ransi Clark",
+    "section": "",
+    "text": "I study the fiscal, economic, and political impacts of domestic migratory waves, with a particular focus on the recent outmigration out of California caused by wildfires, pandemic, and high taxes. I take a quantitative approach to these questions, producing spatially granular panel datasets, and analyzing them with estimators conscious of dynamic trends.\nI also develop diagnostic and corrective tools for panel data analysis for more general settings, focusing on biases caused by parallel trend violations, composition changes between groups, and overlap violations.\nI also design messaging experiments to tease out American public reticence to energy infrastructure and heavy industry including data centers."
+  },
+  {
+    "objectID": "index.html#political-economy-of-domestic-migration",
+    "href": "index.html#political-economy-of-domestic-migration",
+    "title": "Ransi Clark",
+    "section": "Political Economy of Domestic Migration",
+    "text": "Political Economy of Domestic Migration\nCalifornia Leavin’: An economic and political recomposition?\nFire, Flight, and Fiscal Strain: Wildfire-Driven Out-Migration and California School Enrollment with R. Michael Alvarez"
+  },
+  {
+    "objectID": "index.html#methodology-and-software",
+    "href": "index.html#methodology-and-software",
+    "title": "Ransi Clark",
+    "section": "Methodology and software",
+    "text": "Methodology and software\nUnintended Consequences of Overlap Violations in Covariate-adjusted Causal Regressions\nSaturation dangers in multi-decade democracy studies with Jonathan N. Katz\ndidunit: a unit-level multi-period differences-in-differences estimator in R with Jonathan N. Katz and R. Michael Alvarez published at SoftwareX"
+  },
+  {
+    "objectID": "index.html#public-opinion",
+    "href": "index.html#public-opinion",
+    "title": "Ransi Clark",
+    "section": "Public Opinion",
+    "text": "Public Opinion\nWho pays for the grid? Experimental insights into the data center backlash with Alexander Halsey and R. Michael Alvarez\nThreat of China’s nuclear dominance boosts Americans’ support for nuclear energy with Beatrice Magistro and R. Michael Alvarez published at Energy Policy"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ransi Clark",
+    "section": "Education",
+    "text": "Education\nCalifornia Institute of Technology | PhD Social Science | 2021-\nUniversity of Queensland | BEcon (Honours) | 2015-2018"
   }
 ]

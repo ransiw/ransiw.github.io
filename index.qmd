@@ -1,6 +1,6 @@
 ---
 title: "Ransi Clark"
-subtitle: "Computational Social Science"
+subtitle: "Political Geography and Political Methodology"
 # 
 image: profileadd.jpg
 about: # https://quarto.org/docs/websites/website-about.html
@@ -9,46 +9,46 @@ about: # https://quarto.org/docs/websites/website-about.html
     - icon: github
       text: Github
       href: https://github.com/ransiw
-    - icon: bookmark-fill
-      text: Substack
-      href: https://counterfictionals.substack.com/
 ---
 
-I specialize in statistical methods for estimating dynamic causal effects, with focus on decomposability. I apply these methods to a wide range of treatment settings including democratization, natural disasters, and other electorally relevant phenomena. I publish and maintain open source software.
+I study the fiscal, economic, and political impacts of domestic migratory waves, with a particular focus on the recent outmigration out of California caused by wildfires, pandemic, and high taxes. I take a quantitative approach to these questions, producing spatially granular panel datasets, and analyzing them with estimators conscious of dynamic trends. 
 
-I also have a specific policy interest in nuclear energy and occasionally field surveys to gauge public opinion on the nuclear energy permitting processes.
 
-With [Matt Estes](https://matt-estes.com/publications), I quantify the relationship between legal academia and legal practicioners by employing natural language processing tools in legal text data spanning the last decades. 
+I also develop diagnostic and corrective tools for panel data analysis for more general settings, focusing on biases caused by parallel trend violations, composition changes between groups, and overlap violations. 
 
-## Accepted Papers
+
+I also design messaging experiments to tease out American public reticence to energy infrastructure and heavy industry including data centers. 
+
+
+
+## Political Economy of Domestic Migration
+
+[California Leavin': An economic and political recomposition?](CA_Leaving.pdf)
+
+[Fire, Flight, and Fiscal Strain: Wildfire-Driven Out-Migration and California School Enrollment](Wildfire_Education.pdf)
+*with R. Michael Alvarez*
+
+## Methodology and software
+
+[Unintended Consequences of Overlap Violations in Covariate-adjusted Causal Regressions](Reg_Weights.pdf)
+
+[Saturation dangers in multi-decade democracy studies](democeducation.pdf) 
+*with Jonathan N. Katz*
 
 [didunit: a unit-level multi-period differences-in-differences estimator in R](didunit.pdf)<br>
 *with Jonathan N. Katz and R. Michael Alvarez*<br>
 *published at [SoftwareX](https://www.sciencedirect.com/science/article/pii/S2352711025004339)*
 
 
-[Threat of China's nuclear dominance boosts Americans' support for nuclear energy](NuclearPolitics.pdf) 
+## Public Opinion
+
+[Who pays for the grid? Experimental insights into the data center backlash](Data_Centers_Bans.pdf)
+*with Alexander Halsey and R. Michael Alvarez*
+
+
+[Threat of China’s nuclear dominance boosts Americans’ support for nuclear energy](NuclearPolicy.pdf)<br>
 *with Beatrice Magistro and R. Michael Alvarez*<br>
-*accepted at Energy Policy*
-
-
-[Courting the Academy: The Judicial Role in Popularizing Legal Scholarship](legalbounds.pdf) 
-*with Matthew Estes* <br>
-*accepted at Kansas Journal of Law and Public Policy*
-
-
-
-## Working Papers
-
-[Saturation dangers in multi-decade democracy studies](democeducation.pdf) 
-*with Jonathan N. Katz*
-
-
-[Schooling amidst displacement from California fires: bright spots and blind spots](schoolswildfire.pdf) 
-*with R. Michael Alvarez*
-
-[Finding Natural Law: An empirical examination](FindingNature.pdf) 
-*with Matthew Estes* 
+*published at [Energy Policy](https://www.sciencedirect.com/science/article/abs/pii/S0301421526002107)*
 
 
 ## Education
