@@ -11,13 +11,13 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://github.com/ransiw
 ---
 
-I study the fiscal, economic, and political impacts of domestic migratory waves, with a particular focus on the recent outmigration out of California caused by wildfires, pandemic, and high taxes. I take a quantitative approach to these questions, producing spatially granular panel datasets, and analyzing them with estimators conscious of dynamic trends. 
+I study the fiscal, economic, and political impacts of domestic migratory waves, with a particular focus on the recent out-migration out of California caused by wildfires, pandemic, and high costs. I take a quantitative approach to these questions, producing spatially granular panel datasets, and analyzing them with estimators conscious of dynamic trends. 
 
 
-I also develop diagnostic and corrective tools for panel data analysis for more general settings, focusing on biases caused by parallel trend violations, composition changes between groups, and overlap violations. 
+I also develop diagnostic and corrective tools for panel data analysis for more general settings, focusing on biases caused by parallel trend violations, composition changes between treatment and control sets, and overlap violations. 
 
 
-In a parallel strand of research, I design messaging experiments that investigate American public reticence to energy infrastructure and heavy industry including data centers. 
+In a parallel strand of research, I design messaging experiments that investigate the American public's hesitancy toward energy infrastructure and energy-intensive industry. 
 
 
 
